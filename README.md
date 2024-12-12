@@ -1,3 +1,14 @@
-# Desafio-de-projeto-UX-UI-DIO
+# FoodDelivery - Projeto Wireframe
 
-![image](https://github.com/user-attachments/assets/a65e3228-a59b-41d6-82ac-b72544ec6057)
+Este é um projeto desenvolvido como parte do Desafio de Projeto da [DIO](https://www.dio.me/). Ele apresenta um wireframe funcional para uma aplicação de entrega de comida.
+
+## Funcionalidades
+- Cabeçalho com navegação intuitiva.
+- Banner principal com call-to-action.
+- Cards destacando restaurantes.
+- Layout responsivo.
+
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+
